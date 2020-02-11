@@ -19,3 +19,5 @@ def self.print_all
     puts dog 
   end
 end
+
+end
